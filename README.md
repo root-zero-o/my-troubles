@@ -3,3 +3,6 @@
 
 ### TypeScript
 - [이미지 import 오류](https://github.com/root-zero-o/my-troubles/blob/main/typescript/img_import.md)
+
+### Next.js
+- [export default 오류](https://github.com/root-zero-o/my-troubles/blob/main/Next.js/export%20default%20%EC%98%A4%EB%A5%98.md)
