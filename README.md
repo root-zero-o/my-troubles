@@ -6,3 +6,6 @@
 
 ### Next.js
 - [export default 오류](https://github.com/root-zero-o/my-troubles/blob/main/Next.js/export%20default%20%EC%98%A4%EB%A5%98.md)
+
+### Tailwind CSS
+- [theme.colors 오류](https://github.com/root-zero-o/my-troubles/blob/main/TailwindCSS/theme.colors%20%EC%98%A4%EB%A5%98.md)
